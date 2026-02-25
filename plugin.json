@@ -1,0 +1,13 @@
+{
+  "id": "worldClockMulti",
+  "name": "World Clock Multi",
+  "description": "Display up to 5 timezones on the bar. Toggle between showing all at once or cycling through them at a configurable interval.",
+  "version": "1.0.0",
+  "author": "Szabolcs Fazekas",
+  "icon": "public",
+  "type": "widget",
+  "capabilities": ["dankbar-widget"],
+  "component": "./WorldClockWidget.qml",
+  "settings": "./WorldClockSettings.qml",
+  "permissions": ["settings_read", "settings_write", "process"]
+}
