@@ -23,7 +23,7 @@ PluginComponent {
     // ── Clock source (drives the refresh) ───────────────────────────
     SystemClock {
         id: systemClock
-        precision: SystemClock.Seconds
+        precision: SystemClock.Minutes
         onDateChanged: root.refreshTimes()
     }
 
