@@ -2,7 +2,7 @@
   "id": "worldClockMulti",
   "name": "World Clock Multi",
   "description": "Display up to 5 timezones on the bar. Toggle between showing all at once or cycling through them at a configurable interval.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Szabolcs Fazekas",
   "icon": "public",
   "type": "widget",
